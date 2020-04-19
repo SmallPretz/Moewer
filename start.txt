@@ -1,0 +1,6 @@
+cd Desktop/Programowanie/JavaScript kurs/Moewer/server npm run dev
+http://localhost:5000
+
+
+cd Desktop/Programowanie/JavaScript kurs/Moewer/client live-server
+http://127.0.0.1:8080
